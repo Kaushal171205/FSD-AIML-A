@@ -1,0 +1,19 @@
+{
+  "name": "book-npm-app",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html --open"
+  },
+  "dependencies": {
+    "babel": "^5.8.38",
+    "parcel": "^2.16.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
